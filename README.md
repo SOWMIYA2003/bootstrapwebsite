@@ -359,29 +359,6 @@ Publish the website in the given URL.
     <div class="tab-pane" id="intab"><a href="#" class="link-primary"></a></div>
     
   </div>
-                  
-                <!--<div class="row">
-                    <div class="col-sm-2">
-                      <div class="fakeimg">Fake Image</div>
-                      
-                      <h3 class="mt-4">Important Links</h3>
-                      <ul class="nav nav-pills flex-column">
-                        <li class="nav-item">
-                          <a class="nav-link active" href="#">Smart Policing</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link bg-warning" href="#">Data On Police Organization</a>
-                        </li>
-                      </ul>
-                      <hr class="d-sm-none">
-                    </div>
-                  </div>-->
-               
-                
-    
-                   
-                    
-                    
                </div>
 <div class="mt-5 p-4 bg-dark text-white">
        
